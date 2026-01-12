@@ -1,0 +1,24 @@
+{
+  "name": "FinAI Shield App - Dockerized",
+  
+  // Указываем использовать существующий Dockerfile, который вы создали
+  "dockerFile": "../Dockerfile", 
+  
+  // Рабочая директория в контейнере
+  "workspaceFolder": "/app",
+  
+  // Настройки для VS Code
+  "customizations": {
+    "vscode": {
+      // Рекомендуемые расширения для React/TS
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-typescript-tslint-plugin"
+      ]
+    }
+  },
+  
+  // Проброс порта для сервера разработки (npm run dev)
+  "forwardPorts": [3000]
+}
