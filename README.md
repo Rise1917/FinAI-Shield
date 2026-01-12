@@ -174,17 +174,6 @@ npm run dev
 
 ---
 
-## 📊 Demo Data | Демо данные | Демо деректер
-
-Для тестирования используйте файл `demo_transactions.csv`:
-
-```csv
-date,amount,category,description,merchant
-2024-01-15,-2500,food,"Покупка продуктов","Магнум"
-2024-01-16,-890,transport,"Такси","InDrive"
-2024-01-17,+50000,salary,"Зарплата","ТОО Компания"
-```
-
 ---
 
 ## 🌍 Why It Matters for Kazakhstan | Почему это важно для Казахстана | Неліктен бұл Қазақстан үшін маңызды
@@ -216,9 +205,7 @@ date,amount,category,description,merchant
 
 ## 📞 Contacts | Контакты | Байланыстар
 
-- **Email**: contact@finaishield.kz
-- **Telegram**: [@finaishield](https://t.me/finaishield)
-- **Website**: [finaishield.kz](https://finaishield.kz)
+- **Email**: erasyl.nug0062@gmail.com
 
 ---
 
