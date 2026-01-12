@@ -1,7 +1,7 @@
 # 🛡️ FinAI Shield
 
 > **🇷🇺 FinAI Shield — не просто считает твои деньги. Он защищает твои решения.**  
-> **gb FinAI Shield — doesn't just count your money. It protects your decisions.**  
+> **us FinAI Shield — doesn't just count your money. It protects your decisions.**  
 > **🇰🇿 FinAI Shield — тек ақшаңызды санамайды. Ол шешімдеріңізді қорғайды.**
 
 <div align="center">
@@ -17,14 +17,14 @@
 
 **🇷🇺** **FinAI Shield** — твой умный ИИ-наставник и финансовый телохранитель. Помогает людям умно управлять деньгами, не влезать в долги и защищает кошелёк от мошенников через понятные советы, аналитику и геймификацию.
 
-**gb** **FinAI Shield** — your smart AI mentor and financial bodyguard. Helps people manage money wisely, avoid debt, and protects wallets from scammers through clear advice, analytics, and gamification.
+**us** **FinAI Shield** — your smart AI mentor and financial bodyguard. Helps people manage money wisely, avoid debt, and protects wallets from scammers through clear advice, analytics, and gamification.
 
 **🇰🇿** **FinAI Shield** — сіздің ақылды AI-ментор және қаржылық қорғаушыңыз. Адамдарға ақшаны ақылды басқаруға, қарызға түспеуге көмектеседі және алаяқтардан әмиянды қорғайды.
 
 ### 🎯 Mission | Миссия | Миссия
 **🇷🇺** Сделать финансовую грамотность доступной каждому казахстанцу через современные AI-технологии и интуитивный интерфейс.
 
-**gb** Make financial literacy accessible to every Kazakhstani through modern AI technologies and intuitive interface.
+**us** Make financial literacy accessible to every Kazakhstani through modern AI technologies and intuitive interface.
 
 **🇰🇿** Заманауи AI технологиялары мен интуитивті интерфейс арқылы әрбір қазақстандыққа қаржылық сауаттылықты қолжетімді ету.
 
@@ -40,7 +40,7 @@
 - **ИИ-анализ** транзакций в реальном времени
 - **Персонализированные инсайты** и рекомендации
 
-**gb**
+**us**
 - **Automatic connection** to Kaspi, Halyk, Jusan (API/CSV)
 - **AI analysis** of transactions in real-time
 - **Personalized insights** and recommendations
@@ -91,7 +91,7 @@
 - **База мошеннических номеров** и карт
 - **Предупреждения в реальном времени**
 
-**gb**
+**us**
 - **Recipient verification** before transfer
 - **Database of fraudulent numbers** and cards
 - **Real-time warnings**
@@ -113,7 +113,7 @@
 - 🏆 **Бейджи ответственности** за безопасные переводы
 - 📱 **Интеграция с соцсетями** для шеринга достижений
 
-**gb**
+**us**
 - 🎯 **Points for saving** and achieving goals
 - 🏆 **Responsibility badges** for safe transfers
 - 📱 **Social media integration** for sharing achievements
