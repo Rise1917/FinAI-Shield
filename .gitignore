@@ -71,6 +71,7 @@ obj/
 
 # === Docker ===
 .dockerignore
+.devcontainer/
 # Если используешь локальные volumes для БД
 data/
 db_data/
